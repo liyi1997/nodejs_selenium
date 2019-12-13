@@ -1,0 +1,9 @@
+{
+  "name": "pachong",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "request": "^2.88.0",
+    "selenium-webdriver": "^4.0.0-alpha.5"
+  }
+}
