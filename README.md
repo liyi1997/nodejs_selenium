@@ -4,7 +4,7 @@
 
 ## 安装
 
-项目克隆岛本地后 执行 yarn 或者 npm install ,然后 node index.js执行项目
+项目克隆到本地后 执行 yarn 或者 npm install ,然后 node index.js执行项目
 
 ## 说明
 
